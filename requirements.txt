@@ -14,7 +14,6 @@ Jinja2==2.11.2
 jinja2-django-version==1.1.2
 MarkupSafe==1.1.1
 Pillow==8.0.1
-pkg-resources==0.0.0
 pyfcm==1.4.7
 pytz==2020.4
 requests==2.25.0
